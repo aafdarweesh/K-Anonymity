@@ -43,10 +43,10 @@ According to the data the following descisions were made
 
 ## Findings
 ### Data & Configurations
-![Alt text](./README_pictures/Data.jpg?raw=true "Search Bars")
+![Alt text](./README_pictures/Data.png?raw=true "Search Bars")
 ### Result Exploration
-![Alt text](./README_pictures/Result_Explore.jpg?raw=true "Search Bars")
+![Alt text](./README_pictures/Result_Explore.png?raw=true "Search Bars")
 ### Analyse Risk Result
-![Alt text](./README_pictures/Risk_Tests.jpg?raw=true "Search Bars")
+![Alt text](./README_pictures/Risk_Tests.png?raw=true "Search Bars")
 ### Analyse Risk Tests
-![Alt text](./README_pictures/Risk_Graphs.jpg?raw=true "Search Bars")
+![Alt text](./README_pictures/Risk_Graphs.png?raw=true "Search Bars")
