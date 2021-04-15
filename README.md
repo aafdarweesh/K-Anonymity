@@ -49,4 +49,4 @@ According to the data the following descisions were made
 ### Analyse Risk Result
 ![Alt text](./README_pictures/Risk_Tests.png?raw=true "Search Bars")
 ### Analyse Risk Tests
-![Alt text](./README_pictures/Risk_Graphs.png?raw=true "Search Bars")
+![Alt text](./README_pictures/Risk_Graph.png?raw=true "Search Bars")
